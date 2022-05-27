@@ -1,0 +1,27 @@
+1. To open the IIS Manager from Run
+
+command - inetmgr
+
+2. Open all the installed programmes
+
+command - appwiz.cpp
+
+3. To view the configuration manager of the system
+
+command - msconfig
+
+4. To view the resource monitor of the system
+
+command - resmon
+
+5. To open the system information
+
+command - msinfo32
+
+6. To view the mouse properties
+
+command - main.cpl
+
+7. To open the window Registry
+
+command - regedit
