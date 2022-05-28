@@ -45,3 +45,11 @@ command - devmgmt.msc
 12. To Open the service app
 
 command - services.msc
+
+13. Open On-Screen Keyboard
+
+command - osk
+
+14. To Open Remote Desktop Connection
+
+command - mstsc
