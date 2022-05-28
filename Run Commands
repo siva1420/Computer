@@ -25,3 +25,11 @@ command - main.cpl
 7. To open the window Registry
 
 command - regedit
+
+8. To Open control panel
+
+command - control
+
+9. To Remove the tempory file/folder
+
+command - %temp%
