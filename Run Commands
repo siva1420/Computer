@@ -37,3 +37,7 @@ command - %temp%
 10. To acess the network connection
 
 command - ncpa.cpl
+
+11. To Open Device Manager
+
+command - devmgmt.msc
