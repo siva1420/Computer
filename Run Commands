@@ -33,3 +33,7 @@ command - control
 9. To Remove the tempory file/folder
 
 command - %temp%
+
+10. To acess the network connection
+
+command - ncpa.cpl
