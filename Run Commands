@@ -41,3 +41,7 @@ command - ncpa.cpl
 11. To Open Device Manager
 
 command - devmgmt.msc
+
+12. To Open the service app
+
+command - services.msc
